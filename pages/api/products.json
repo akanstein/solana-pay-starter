@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Marvel",
+    "price": "0.09",
+    "description": "Get this fire marvel sticker for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmNMPc5ju3z5MA2cMouLmMiaBPBfRTMQ7gqy4ioMcYF9G9",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Black panther",
+    "price": "0.09",
+    "description": "Get this fire marvel's black panther sticker for only $0.09! Gives you chance to win a free ticket to the black panther priemier",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmNzmavHd4cSt1nmRmnkzc7LvdgS2XMK97qWrPT93VjHeU",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  }
+]
